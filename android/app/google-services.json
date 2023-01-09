@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694032266509",
+    "project_id": "ug-deepmoney",
+    "storage_bucket": "ug-deepmoney.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694032266509:android:3151866ce867a1796dac44",
+        "android_client_info": {
+          "package_name": "com.example.signup_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694032266509-72tbhanqml4n74nv48svfkm0i8bkmcnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdjcy1yIW9qh3DDivyBoPw-SXa16Dpxb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694032266509-72tbhanqml4n74nv48svfkm0i8bkmcnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
