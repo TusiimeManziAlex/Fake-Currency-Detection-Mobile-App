@@ -1,6 +1,6 @@
-# signup_login
+# ug_deepmoney
 
-A new Flutter project.
+Flutter project used to detect ugandan currency wheather a given bank note is genuine or counterfeit based on machine learning algorithms.
 
 ## Getting Started
 
